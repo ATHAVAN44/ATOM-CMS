@@ -56,7 +56,7 @@ if(!isset($_SESSION['username'])){
              ?>     
                  <div class="list-group">
      <a class="list-group-item" href="index.php" >
-     <h4 class="list-group-item-heading"> <i class="fa fa-plus"></i> Add new page</h4>
+     <h4 class="list-group-item-heading"> <i class="fa fa-plus"></i> Add new page ?</h4>
              
                     </a>
 
